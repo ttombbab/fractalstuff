@@ -7,7 +7,7 @@ This project explores a novel approach to image representation and potential com
 
 While working on fractal compression techniques, I stumbled upon an interesting mathematical space. This space utilizes a custom number type consisting of three components: (real, imaginary, imaginary). The implementation of this number type can be found in the `newnum.py` file.
 
-I experimented with applying an iterative formula similar to the one used for generating Multibrot sets: `z = z**5 + c`. Typically, this formula uses complex numbers raised to the power of 2 or other integers. In this project, the formula is adapted to the custom (real, imaginary, imaginary) number type and raised to the fifth power.
+I experimented with applying an iterative formula similar to the one used for generating Multibrot sets: `$Z \leftarrow z^5 + C$ , Typically, this formula uses complex numbers raised to the power of 2 or other integers. In this project, the formula is adapted to the custom (real, $Z \leftarrow z^5 + C$imaginary, imaginary) number type and raised to the fifth power.
 
 ## Observations
 
