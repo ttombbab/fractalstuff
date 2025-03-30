@@ -23,6 +23,8 @@ Recently, I was listening to a video discussing the reconstruction of datasets f
 
 What if the attractors of multi-Julia sets could be treated as the "weights" in a neural network? Could we then reconstruct data (potentially images) from these fractal attractors?
 
+Imagine that there is an inherent topological compression caused by the gravity well of the planet. This iterative phase space represents the material reality of the planet. Your mind is a network whose weight and gradients are continually filled in by the external universe. Inside your mind you recreate the datasets that is your perception of reality.
+
 ## Next Steps (Current Thinking)
 
 This project represents an initial exploration of this concept. The current focus is on:
@@ -38,3 +40,4 @@ example images.
 
 ## Contributing
 Here's the video link; https://youtu.be/JAzTr5hIVpI?si=VhSKH8g1nCbrmT1x
+that inspired me to rethink why im so intrested in this phase space. 
